@@ -1,0 +1,12 @@
+{
+  "signal": [
+    { "name": "clk", "wave": "n................." },
+    { "name": "reset", "wave": "01.0.............." },
+    { "name": "plInSignal", "wave": "0...10............", "data": "request" },
+    { "name": "finishedReceivingBuffer", "wave": "x0......10........", "data": "ack" },
+    { "name": "beginSendingData", "wave": "x0........10......", },
+    { "name": "finishedSendingBuffer", "wave": "x0............10..", "data": "send/recv" },
+    { "name": "state", "wave": "x3...4...3.5...3..", "data": ["sIdle", "sReceiver", "sIdle", "sSender", "sIdle"] },
+
+  ]
+}

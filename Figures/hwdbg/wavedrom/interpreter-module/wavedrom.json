@@ -1,0 +1,10 @@
+{
+  "signal": [
+    { "name": "clk", "wave": "n................." },
+    { "name": "reset", "wave": "01.0.............." },
+    { "name": "requestedActionOfThePacketInputValid", "wave": "0...10............", "data": "request" },
+    { "name": "noNewDataSenderModule", "wave": "x0...........10...", "data": "ack" },
+    { "name": "state", "wave": "x3...4....3...5.3.", "data": ["sIdle", "sNewActionReceived", "sSendResponse", "sDone", "sIdle"] },
+
+  ]
+}
