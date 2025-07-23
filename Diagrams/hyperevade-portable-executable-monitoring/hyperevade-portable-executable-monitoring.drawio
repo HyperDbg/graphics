@@ -1,0 +1,21 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
+  <diagram name="Page-1" id="ZspfnxJy_m4cthqfcu0W">
+    <mxGraphModel dx="1072" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rwQoq0zKENqNgeqZ0Ka0-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="30" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rwQoq0zKENqNgeqZ0Ka0-1" value="&lt;pre style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; mov&amp;nbsp; &amp;nbsp; &amp;nbsp;r10, rcx&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; mov&amp;nbsp; &amp;nbsp; &amp;nbsp;eax, 0x0123&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&amp;nbsp; &lt;font style=&quot;color: rgb(0, 59, 163);&quot;&gt;syscall&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; ret&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=-4;" parent="1" vertex="1">
+          <mxGeometry x="39" y="40" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rwQoq0zKENqNgeqZ0Ka0-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="rwQoq0zKENqNgeqZ0Ka0-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1001.9700000000003" y="155.25" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
